@@ -1,8 +1,8 @@
 # index.html
-#style.css
-#blog post on AI
 
-🌝Repository on Artificial Intelligence:  🧠 
+Blog post on AI //
+
+🌝Artificial Intelligence:  🧠 
 
 In this repository, I provide a brief introduction on Artificial Intelligence: How it's going to change our world and what are it's consequences on human life in the form of a blog post.
 
